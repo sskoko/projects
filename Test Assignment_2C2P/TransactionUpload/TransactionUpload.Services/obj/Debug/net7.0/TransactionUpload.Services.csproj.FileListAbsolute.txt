@@ -1,0 +1,68 @@
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.Services\bin\Debug\net7.0\TransactionUpload.Services.deps.json
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.Services\bin\Debug\net7.0\TransactionUpload.Services.runtimeconfig.json
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.Services\bin\Debug\net7.0\TransactionUpload.Services.dll
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.Services\bin\Debug\net7.0\TransactionUpload.Services.pdb
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.Services\bin\Debug\net7.0\TransactionUpload.Models.dll
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.Services\bin\Debug\net7.0\TransactionUpload.Models.pdb
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\TransactionUpload.Services.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\TransactionUpload.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\TransactionUpload.Services.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\TransactionUpload.Services.AssemblyInfo.cs
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\TransactionUpload.Services.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\TransactionUpload.Services.csproj.CopyComplete
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\TransactionUpload.Services.dll
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\refint\TransactionUpload.Services.dll
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\TransactionUpload.Services.pdb
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\TransactionUpload.Services.genruntimeconfig.cache
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\ref\TransactionUpload.Services.dll
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.Services\bin\Debug\net7.0\TransactionUpload.Services.deps.json
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.Services\bin\Debug\net7.0\TransactionUpload.Services.runtimeconfig.json
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.Services\bin\Debug\net7.0\TransactionUpload.Services.dll
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.Services\bin\Debug\net7.0\TransactionUpload.Services.pdb
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.Services\bin\Debug\net7.0\TransactionUpload.Models.dll
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.Services\bin\Debug\net7.0\TransactionUpload.Models.pdb
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\TransactionUpload.Services.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\TransactionUpload.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\TransactionUpload.Services.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\TransactionUpload.Services.AssemblyInfo.cs
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\TransactionUpload.Services.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\TransactionUpload.Services.csproj.CopyComplete
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\TransactionUpload.Services.dll
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\refint\TransactionUpload.Services.dll
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\TransactionUpload.Services.pdb
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\TransactionUpload.Services.genruntimeconfig.cache
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\ref\TransactionUpload.Services.dll
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.Services\bin\Debug\net7.0\TransactionUpload.Services.deps.json
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.Services\bin\Debug\net7.0\TransactionUpload.Services.runtimeconfig.json
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.Services\bin\Debug\net7.0\TransactionUpload.Services.dll
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.Services\bin\Debug\net7.0\TransactionUpload.Services.pdb
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.Services\bin\Debug\net7.0\TransactionUpload.Models.dll
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.Services\bin\Debug\net7.0\TransactionUpload.Models.pdb
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\TransactionUpload.Services.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\TransactionUpload.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\TransactionUpload.Services.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\TransactionUpload.Services.AssemblyInfo.cs
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\TransactionUpload.Services.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\TransactionUpload.Services.csproj.CopyComplete
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\TransactionUpload.Services.dll
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\refint\TransactionUpload.Services.dll
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\TransactionUpload.Services.pdb
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\TransactionUpload.Services.genruntimeconfig.cache
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\ref\TransactionUpload.Services.dll
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.Services\bin\Debug\net7.0\TransactionUpload.Services.deps.json
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.Services\bin\Debug\net7.0\TransactionUpload.Services.runtimeconfig.json
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.Services\bin\Debug\net7.0\TransactionUpload.Services.dll
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.Services\bin\Debug\net7.0\TransactionUpload.Services.pdb
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.Services\bin\Debug\net7.0\TransactionUpload.Models.dll
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.Services\bin\Debug\net7.0\TransactionUpload.Models.pdb
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\TransactionUpload.Services.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\TransactionUpload.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\TransactionUpload.Services.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\TransactionUpload.Services.AssemblyInfo.cs
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\TransactionUpload.Services.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\TransactionUpload.Services.csproj.CopyComplete
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\TransactionUpload.Services.dll
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\refint\TransactionUpload.Services.dll
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\TransactionUpload.Services.pdb
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\TransactionUpload.Services.genruntimeconfig.cache
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.Services\obj\Debug\net7.0\ref\TransactionUpload.Services.dll

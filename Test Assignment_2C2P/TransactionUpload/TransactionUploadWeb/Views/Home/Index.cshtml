@@ -1,0 +1,65 @@
+﻿@{
+    ViewData["Title"] = "Upload Transactions";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form id="uploadForm">
+    <div class="form-group">
+        <label for="fileInput">Upload File:</label>
+        <input type="file" class="form-control-file" id="fileInput" name="file" accept=".csv, .xml">
+    </div>
+    <button type="submit" class="btn btn-primary">Upload</button>
+</form>
+
+<div id="transactionData"></div>
+<br/>
+<br />
+<div id="result"></div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $("#uploadForm").submit(function (e) {
+            e.preventDefault();
+
+            var formData = new FormData(this);
+
+            $.ajax({
+                url: "/api/Transaction/upload",
+                type: "POST",
+                data: formData,
+                processData: false,
+                contentType: false,
+                success: function (response) {
+                    $.ajax({
+                        url: "/Home/LoadDatabase",
+                        type: "GET",
+                        dataType: "json",
+                        success: function (data) {
+                            displayData(data);
+                            $("#result").html("File uploaded successfully.");
+                        },
+                        error: function (error) {
+                            $("#result").html(error.statusText);
+                        }
+                    });
+                },
+                error: function (xhr) {
+                    var errorMessage = "Error: ";
+                    if (xhr.responseText) {
+                        errorMessage += xhr.responseText;
+                    } else {
+                        errorMessage += "Unknown error occurred.";
+                    }
+                    $("#result").html(errorMessage);
+                }
+            });
+        });
+
+        function displayData(data) {
+            var transactionData = $('#transactionData');
+            transactionData.html(JSON.stringify(data, null, 2));
+        }
+    });
+</script>

@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\Test Assessment\Employee\Employee.Models\bin\Debug\net7.0\Employee.Models.deps.json
+C:\Users\HP\Desktop\Test Assessment\Employee\Employee.Models\bin\Debug\net7.0\Employee.Models.dll
+C:\Users\HP\Desktop\Test Assessment\Employee\Employee.Models\bin\Debug\net7.0\Employee.Models.pdb
+C:\Users\HP\Desktop\Test Assessment\Employee\Employee.Models\obj\Debug\net7.0\Employee.Models.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Test Assessment\Employee\Employee.Models\obj\Debug\net7.0\Employee.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Test Assessment\Employee\Employee.Models\obj\Debug\net7.0\Employee.Models.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Test Assessment\Employee\Employee.Models\obj\Debug\net7.0\Employee.Models.AssemblyInfo.cs
+C:\Users\HP\Desktop\Test Assessment\Employee\Employee.Models\obj\Debug\net7.0\Employee.Models.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Test Assessment\Employee\Employee.Models\obj\Debug\net7.0\Employee.Models.dll
+C:\Users\HP\Desktop\Test Assessment\Employee\Employee.Models\obj\Debug\net7.0\refint\Employee.Models.dll
+C:\Users\HP\Desktop\Test Assessment\Employee\Employee.Models\obj\Debug\net7.0\Employee.Models.pdb
+C:\Users\HP\Desktop\Test Assessment\Employee\Employee.Models\obj\Debug\net7.0\ref\Employee.Models.dll

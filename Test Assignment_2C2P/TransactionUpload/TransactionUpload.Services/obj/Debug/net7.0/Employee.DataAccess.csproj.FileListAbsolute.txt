@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\Test Assessment\Employee\Employee.DataAccess\obj\Debug\net7.0\Employee.DataAccess.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Test Assessment\Employee\Employee.DataAccess\obj\Debug\net7.0\Employee.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Test Assessment\Employee\Employee.DataAccess\obj\Debug\net7.0\Employee.DataAccess.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Test Assessment\Employee\Employee.DataAccess\obj\Debug\net7.0\Employee.DataAccess.AssemblyInfo.cs
+C:\Users\HP\Desktop\Test Assessment\Employee\Employee.DataAccess\obj\Debug\net7.0\Employee.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Test Assessment\Employee\Employee.DataAccess\bin\Debug\net7.0\Employee.DataAccess.deps.json
+C:\Users\HP\Desktop\Test Assessment\Employee\Employee.DataAccess\bin\Debug\net7.0\Employee.DataAccess.runtimeconfig.json
+C:\Users\HP\Desktop\Test Assessment\Employee\Employee.DataAccess\bin\Debug\net7.0\Employee.DataAccess.dll
+C:\Users\HP\Desktop\Test Assessment\Employee\Employee.DataAccess\bin\Debug\net7.0\Employee.DataAccess.pdb
+C:\Users\HP\Desktop\Test Assessment\Employee\Employee.DataAccess\bin\Debug\net7.0\Employee.Models.dll
+C:\Users\HP\Desktop\Test Assessment\Employee\Employee.DataAccess\bin\Debug\net7.0\Employee.Models.pdb
+C:\Users\HP\Desktop\Test Assessment\Employee\Employee.DataAccess\obj\Debug\net7.0\Employee.DataAccess.csproj.CopyComplete
+C:\Users\HP\Desktop\Test Assessment\Employee\Employee.DataAccess\obj\Debug\net7.0\Employee.DataAccess.dll
+C:\Users\HP\Desktop\Test Assessment\Employee\Employee.DataAccess\obj\Debug\net7.0\refint\Employee.DataAccess.dll
+C:\Users\HP\Desktop\Test Assessment\Employee\Employee.DataAccess\obj\Debug\net7.0\Employee.DataAccess.pdb
+C:\Users\HP\Desktop\Test Assessment\Employee\Employee.DataAccess\obj\Debug\net7.0\Employee.DataAccess.genruntimeconfig.cache
+C:\Users\HP\Desktop\Test Assessment\Employee\Employee.DataAccess\obj\Debug\net7.0\ref\Employee.DataAccess.dll

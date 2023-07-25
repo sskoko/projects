@@ -1,0 +1,68 @@
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.DataAccess\bin\Debug\net7.0\TransactionUpload.DataAccess.deps.json
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.DataAccess\bin\Debug\net7.0\TransactionUpload.DataAccess.runtimeconfig.json
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.DataAccess\bin\Debug\net7.0\TransactionUpload.DataAccess.dll
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.DataAccess\bin\Debug\net7.0\TransactionUpload.DataAccess.pdb
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.DataAccess\bin\Debug\net7.0\TransactionUpload.Models.dll
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.DataAccess\bin\Debug\net7.0\TransactionUpload.Models.pdb
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\TransactionUpload.DataAccess.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\TransactionUpload.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\TransactionUpload.DataAccess.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\TransactionUpload.DataAccess.AssemblyInfo.cs
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\TransactionUpload.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\TransactionUpload.DataAccess.csproj.CopyComplete
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\TransactionUpload.DataAccess.dll
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\refint\TransactionUpload.DataAccess.dll
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\TransactionUpload.DataAccess.pdb
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\TransactionUpload.DataAccess.genruntimeconfig.cache
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\ref\TransactionUpload.DataAccess.dll
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.DataAccess\bin\Debug\net7.0\TransactionUpload.DataAccess.deps.json
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.DataAccess\bin\Debug\net7.0\TransactionUpload.DataAccess.runtimeconfig.json
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.DataAccess\bin\Debug\net7.0\TransactionUpload.DataAccess.dll
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.DataAccess\bin\Debug\net7.0\TransactionUpload.DataAccess.pdb
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.DataAccess\bin\Debug\net7.0\TransactionUpload.Models.dll
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.DataAccess\bin\Debug\net7.0\TransactionUpload.Models.pdb
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\TransactionUpload.DataAccess.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\TransactionUpload.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\TransactionUpload.DataAccess.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\TransactionUpload.DataAccess.AssemblyInfo.cs
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\TransactionUpload.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\TransactionUpload.DataAccess.csproj.CopyComplete
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\TransactionUpload.DataAccess.dll
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\refint\TransactionUpload.DataAccess.dll
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\TransactionUpload.DataAccess.pdb
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\TransactionUpload.DataAccess.genruntimeconfig.cache
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\ref\TransactionUpload.DataAccess.dll
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.DataAccess\bin\Debug\net7.0\TransactionUpload.DataAccess.deps.json
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.DataAccess\bin\Debug\net7.0\TransactionUpload.DataAccess.runtimeconfig.json
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.DataAccess\bin\Debug\net7.0\TransactionUpload.DataAccess.dll
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.DataAccess\bin\Debug\net7.0\TransactionUpload.DataAccess.pdb
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.DataAccess\bin\Debug\net7.0\TransactionUpload.Models.dll
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.DataAccess\bin\Debug\net7.0\TransactionUpload.Models.pdb
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\TransactionUpload.DataAccess.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\TransactionUpload.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\TransactionUpload.DataAccess.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\TransactionUpload.DataAccess.AssemblyInfo.cs
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\TransactionUpload.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\TransactionUpload.DataAccess.csproj.CopyComplete
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\TransactionUpload.DataAccess.dll
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\refint\TransactionUpload.DataAccess.dll
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\TransactionUpload.DataAccess.pdb
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\TransactionUpload.DataAccess.genruntimeconfig.cache
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\ref\TransactionUpload.DataAccess.dll
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.DataAccess\bin\Debug\net7.0\TransactionUpload.DataAccess.deps.json
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.DataAccess\bin\Debug\net7.0\TransactionUpload.DataAccess.runtimeconfig.json
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.DataAccess\bin\Debug\net7.0\TransactionUpload.DataAccess.dll
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.DataAccess\bin\Debug\net7.0\TransactionUpload.DataAccess.pdb
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.DataAccess\bin\Debug\net7.0\TransactionUpload.Models.dll
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.DataAccess\bin\Debug\net7.0\TransactionUpload.Models.pdb
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\TransactionUpload.DataAccess.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\TransactionUpload.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\TransactionUpload.DataAccess.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\TransactionUpload.DataAccess.AssemblyInfo.cs
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\TransactionUpload.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\TransactionUpload.DataAccess.csproj.CopyComplete
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\TransactionUpload.DataAccess.dll
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\refint\TransactionUpload.DataAccess.dll
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\TransactionUpload.DataAccess.pdb
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\TransactionUpload.DataAccess.genruntimeconfig.cache
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.DataAccess\obj\Debug\net7.0\ref\TransactionUpload.DataAccess.dll

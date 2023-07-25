@@ -1,0 +1,48 @@
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.Models\bin\Debug\net7.0\TransactionUpload.Models.deps.json
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.Models\bin\Debug\net7.0\TransactionUpload.Models.dll
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.Models\bin\Debug\net7.0\TransactionUpload.Models.pdb
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.Models\obj\Debug\net7.0\TransactionUpload.Models.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.Models\obj\Debug\net7.0\TransactionUpload.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.Models\obj\Debug\net7.0\TransactionUpload.Models.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.Models\obj\Debug\net7.0\TransactionUpload.Models.AssemblyInfo.cs
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.Models\obj\Debug\net7.0\TransactionUpload.Models.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.Models\obj\Debug\net7.0\TransactionUpload.Models.dll
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.Models\obj\Debug\net7.0\refint\TransactionUpload.Models.dll
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.Models\obj\Debug\net7.0\TransactionUpload.Models.pdb
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload.Models\obj\Debug\net7.0\ref\TransactionUpload.Models.dll
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.Models\bin\Debug\net7.0\TransactionUpload.Models.deps.json
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.Models\bin\Debug\net7.0\TransactionUpload.Models.dll
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.Models\bin\Debug\net7.0\TransactionUpload.Models.pdb
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.Models\obj\Debug\net7.0\TransactionUpload.Models.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.Models\obj\Debug\net7.0\TransactionUpload.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.Models\obj\Debug\net7.0\TransactionUpload.Models.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.Models\obj\Debug\net7.0\TransactionUpload.Models.AssemblyInfo.cs
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.Models\obj\Debug\net7.0\TransactionUpload.Models.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.Models\obj\Debug\net7.0\TransactionUpload.Models.dll
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.Models\obj\Debug\net7.0\refint\TransactionUpload.Models.dll
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.Models\obj\Debug\net7.0\TransactionUpload.Models.pdb
+C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.Models\obj\Debug\net7.0\ref\TransactionUpload.Models.dll
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.Models\bin\Debug\net7.0\TransactionUpload.Models.deps.json
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.Models\bin\Debug\net7.0\TransactionUpload.Models.dll
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.Models\bin\Debug\net7.0\TransactionUpload.Models.pdb
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.Models\obj\Debug\net7.0\TransactionUpload.Models.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.Models\obj\Debug\net7.0\TransactionUpload.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.Models\obj\Debug\net7.0\TransactionUpload.Models.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.Models\obj\Debug\net7.0\TransactionUpload.Models.AssemblyInfo.cs
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.Models\obj\Debug\net7.0\TransactionUpload.Models.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.Models\obj\Debug\net7.0\TransactionUpload.Models.dll
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.Models\obj\Debug\net7.0\refint\TransactionUpload.Models.dll
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.Models\obj\Debug\net7.0\TransactionUpload.Models.pdb
+C:\Users\HP\Desktop\TransactionUpload\TransactionUpload\TransactionUpload.Models\obj\Debug\net7.0\ref\TransactionUpload.Models.dll
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.Models\bin\Debug\net7.0\TransactionUpload.Models.deps.json
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.Models\bin\Debug\net7.0\TransactionUpload.Models.dll
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.Models\bin\Debug\net7.0\TransactionUpload.Models.pdb
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.Models\obj\Debug\net7.0\TransactionUpload.Models.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.Models\obj\Debug\net7.0\TransactionUpload.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.Models\obj\Debug\net7.0\TransactionUpload.Models.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.Models\obj\Debug\net7.0\TransactionUpload.Models.AssemblyInfo.cs
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.Models\obj\Debug\net7.0\TransactionUpload.Models.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.Models\obj\Debug\net7.0\TransactionUpload.Models.dll
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.Models\obj\Debug\net7.0\refint\TransactionUpload.Models.dll
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.Models\obj\Debug\net7.0\TransactionUpload.Models.pdb
+C:\Users\HP\Desktop\Assignment\Test Assignment_2C2P\TransactionUpload\TransactionUpload.Models\obj\Debug\net7.0\ref\TransactionUpload.Models.dll

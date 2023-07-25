@@ -1,0 +1,36 @@
+Error Time: 20/7/2023 9:44:31 PM
+Exception Message: Header with name 'TransactionId'[0] was not found.
+Header with name 'Amount'[0] was not found.
+Header with name 'CurrencyCode'[0] was not found.
+Header with name 'TransactionDate'[0] was not found.
+Header with name 'Status'[0] was not found.
+Headers: 'Invoice0000001', '1,000.00', 'USD', '20/02/2019 12:33:16', 'Approved'
+Headers: 'Invoice0000001', '1,000.00', 'USD', '20/02/2019 12:33:16', 'Approved'
+Headers: 'Invoice0000001', '1,000.00', 'USD', '20/02/2019 12:33:16', 'Approved'
+Headers: 'Invoice0000001', '1,000.00', 'USD', '20/02/2019 12:33:16', 'Approved'
+Headers: 'Invoice0000001', '1,000.00', 'USD', '20/02/2019 12:33:16', 'Approved'
+If you are expecting some headers to be missing and want to ignore this validation, set the configuration HeaderValidated to null. You can also change the functionality to do something else, like logging the issue.
+
+IReader state:
+   ColumnCount: 0
+   CurrentIndex: -1
+   HeaderRecord:
+["Invoice0000001","1,000.00","USD","20/02/2019 12:33:16","Approved"]
+IParser state:
+   ByteCount: 0
+   CharCount: 68
+   Row: 1
+   RawRow: 1
+   Count: 5
+   RawRecord:
+"Invoice0000001","1,000.00","USD","20/02/2019 12:33:16","Approved"
+
+
+Stack Trace:    at CsvHelper.Configuration.ConfigurationFunctions.HeaderValidated(HeaderValidatedArgs args)
+   at CsvHelper.CsvReader.ValidateHeader(Type type)
+   at CsvHelper.CsvReader.ValidateHeader[T]()
+   at CsvHelper.CsvReader.GetRecords[T]()+MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at TransactionUpload.Services.CsvTransactionParser.Parse(String content) in C:\Users\HP\Desktop\TransactionUpload_20072023\TransactionUpload\TransactionUpload.Services\CsvTransactionParser.cs:line 39
+--------------------------------------------------
